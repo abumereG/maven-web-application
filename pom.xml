@@ -6,7 +6,7 @@
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
 	
-	<version>0.0.2-SNAPSHOT</version> 
+	<version>0.0.2</version> 
 	
 	<name>maven-web-application</name>
 
@@ -95,19 +95,19 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.161.193.17:8181/repository/owelfm-release/</url>
+	      <url>http://44.201.176.207:8181/repository/owelfm-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.161.193.17:8181/repository/owelfm-Snapshot/</url>
+	      <url>http://44.201.176.207:8181/repository/owelfm-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>Gwel-autos</finalName>
+		<finalName>Tesla</finalName>
 		
 		<plugins>
 			<plugin>
