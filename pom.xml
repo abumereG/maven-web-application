@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://44.201.176.207:8181/repository/owelfm-release/</url>
+	      <url>http://3.91.102.151:8181/repository/tesla-release/</url>
 	    </repository>
-	    
+	
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.201.176.207:8181/repository/owelfm-Snapshot/</url>
+	      <url>http://3.91.102.151:8181/repository/tesla-snapshot</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
